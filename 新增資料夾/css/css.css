@@ -1,8 +1,12 @@
-body {
+h1, h2, h3, h4, h5, h6, p {
   color: #8B0000;
+}
+hr{
+border: 3px dashed #DC685A;
 }
 body{
 background-image: url('https://img.lovepik.com/background/20211021/small/lovepik-new-year-background-image_400957130.jpg'
 background-repeat: no-repeat;
 background-position: center;
+
 }
